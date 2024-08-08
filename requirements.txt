@@ -1,0 +1,7 @@
+Flask
+Werkzeug
+vanna
+duckdb
+pandas
+numpy
+python-dotenv
